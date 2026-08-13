@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-<h3>I’m a junior full-stack web developer with a background in Python and C# .NET, gained through my training at Rumus Academy. Although I’ve learned several technologies, I’ve been focusing mainly on C# for back-end development in my recent projects.</h3>
 <h3>
-On the front end, I work with React and enjoy building full-stack applications using modern frameworks and tools. While UI/UX design isn’t my strongest area, I’m confident in creating responsive and functional interfaces and I’m always eager to keep learning and improving.
+  I'm a software development student, currently training as a full-stack developer through the CET program at IEFP and the Full Stack Developer course at Rumus Academy. I've worked with several languages, but I've been focusing mainly on C# for back-end development in my recent projects.
+</h3>
+<h3>
+On the front end, I work with React and enjoy building full-stack applications using modern frameworks and tools. While UI/UX design isn't my strongest area, I'm confident creating responsive and functional interfaces, and I'm always eager to keep learning and improving. I'm currently looking for an internship opportunity to grow as a developer.
 </h3>
 
 ###
