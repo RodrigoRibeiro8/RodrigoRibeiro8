@@ -9,8 +9,6 @@ On the front end, I work with React and enjoy building full-stack applications u
 ###
 <h3 align="center">Tools that i use:</h3>
 <div align="center">
-  **Tools that I use:**
-
 **Languages**
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="c# logo" />
